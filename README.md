@@ -14,10 +14,6 @@
 
 <br/>
 
-
-
-<br/>
-
 ---
 
 ## 🌟 About Me
@@ -27,19 +23,22 @@
 ```yaml
 Name        : Shahbaz
 Role        : Full-Stack Engineer & SaaS Builder
-Location    : Canada → 🌍 Collaborating Worldwide
-Experience  : 4+ Years in Web & Product Development
+Company     : Cloudester Software LLC
+Location    : 📍 Calgary, Canada 🇨🇦 → 🌍 Collaborating Worldwide
+Timezone    : UTC -07:00 (Mountain Time)
 Passion     : Building Products That Actually Matter
 Status      : Open to International Projects ✅
 ```
 
 <br/>
 
+- 🏢 Working at: **Cloudester Software LLC**
 - 🔭 Currently building: **a marketplace SaaS platform**
 - 🌱 Deep diving into: **AI/ML, AWS, System Design**
 - 💡 Focused on: **Full-Stack Engineering, Automation & Scaling**
 - 🤝 Looking to collaborate on: **Innovative Startups & SaaS**
 - 🎯 Goal: **Ship scalable, meaningful digital products**
+- 📍 Based in: **Calgary, Canada — Working with clients worldwide**
 
 <br clear="right"/>
 
@@ -96,12 +95,12 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahbaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&icon_color=7B2FF7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C3FF&ring=7B2FF7&fire=FF6B6B&currStreakLabel=00C3FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahbazwork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&icon_color=7B2FF7&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazwork&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C3FF&ring=7B2FF7&fire=FF6B6B&currStreakLabel=00C3FF" />
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&text_color=ffffff" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&text_color=ffffff" />
 
 </div>
 
@@ -111,7 +110,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahbaz&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=shahbazwork&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
@@ -121,7 +120,7 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C3FF&line=7B2FF7&point=FF6B6B" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbazwork&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C3FF&line=7B2FF7&point=FF6B6B" />
 
 </div>
 
@@ -161,11 +160,13 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Available%20For-Freelance-brightgreen?style=for-the-badge&logo=freelancer" />
+<img src="https://img.shields.io/badge/Available%20For-Freelance-brightgreen?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-blue?style=for-the-badge&logo=zoom" />
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-blue?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-orange?style=for-the-badge&logo=clockify" />
+<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-orange?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Based%20In-Calgary%20🇨🇦-red?style=for-the-badge" />
 
 </div>
 
@@ -173,9 +174,9 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-| 🌐 Client Focus | 🕐 Availability | 🗣️ Communication | 💳 Payment |
+| 🌐 Client Focus | 🕐 Timezone | 🗣️ Communication | 🏢 Company |
 |:---:|:---:|:---:|:---:|
-| US, EU, UK, AU | Flexible Timezone | English Fluent | PayPal / Wise / Crypto |
+| US, EU, UK, AU, CA | UTC -07:00 MT | English Fluent | Cloudester Software LLC |
 
 </div>
 
@@ -189,6 +190,7 @@ Status      : Open to International Projects ✅
 - 🤝 I believe **great products** are built through **great collaboration**
 - 📚 I learn something new **every single day**
 - 🌙 Best work happens after **10 PM** (night owl coder 🦉)
+- 🏔️ Calgary mountains, Calgary inspiration 😄
 
 ---
 
@@ -223,29 +225,9 @@ Status      : Open to International Projects ✅
 
 ---
 
-## 📬 Let's Build Something Amazing
-
 <div align="center">
 
-### Ready to work with a passionate engineer who delivers results?
-
-<br/>
-
-<a href="mailto:shahbaz@email.com">
-  <img src="https://img.shields.io/badge/📧 Email Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://calendly.com/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/📅 Book a Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/💼 Hire on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=shahbaz&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shahbazwork&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 

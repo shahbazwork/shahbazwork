@@ -14,34 +14,7 @@
 
 <br/>
 
-<div align="center">
 
-<!-- Social badges with glow effect -->
-<a href="mailto:shahbaz@email.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://shahbaz.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://twitter.com/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://discord.com/users/shahbaz" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</div>
 
 <br/>
 

@@ -27,7 +27,7 @@
 ```yaml
 Name        : Shahbaz
 Role        : Full-Stack Engineer & SaaS Builder
-Location    : 🇵🇰 Pakistan → 🌍 Collaborating Worldwide
+Location    : Canada → 🌍 Collaborating Worldwide
 Experience  : 4+ Years in Web & Product Development
 Passion     : Building Products That Actually Matter
 Status      : Open to International Projects ✅
@@ -40,7 +40,6 @@ Status      : Open to International Projects ✅
 - 💡 Focused on: **Full-Stack Engineering, Automation & Scaling**
 - 🤝 Looking to collaborate on: **Innovative Startups & SaaS**
 - 🎯 Goal: **Ship scalable, meaningful digital products**
-- 📬 Reach me at: **shahbaz@email.com**
 
 <br clear="right"/>
 

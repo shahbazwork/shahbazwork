@@ -1,20 +1,30 @@
 <div align="center">
 
-<!-- Professional Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1B4965,100:CCA43B&height=220&section=header&text=Shahbaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Product%20Engineer&descAlignY=60&descAlign=50&descSize=16" />
+<!-- Animated Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1B4965,100:CCA43B&height=240&section=header&text=Shahbaz&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Product%20Engineer&descAlignY=58&descAlign=50&descSize=17" />
 
-</div>
+<br/>
 
-<div align="center">
+<!-- Animated Typing Headline (FIXED HEIGHT — 140px to fit 3 lines) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=1200&color=1B4965&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Building+Production-Grade+SaaS+Platforms;Engineering+Scalable+Solutions+for+Global+Teams;Trusted+by+Clients+Across+US+%E2%80%A2+UK+%E2%80%A2+EU+%E2%80%A2+AU" alt="Typing animation" />
+</a>
 
-<!-- Typing Headline -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=1B4965&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Building+Production-Grade+SaaS+Platforms;Engineering+Scalable+Solutions+for+Global+Teams;Trusted+by+Clients+Across+US+%E2%80%A2+UK+%E2%80%A2+EU+%E2%80%A2+AU)](https://git.io/typing-svg)
+<br/><br/>
+
+<!-- Animated Status Pills -->
+<img src="https://img.shields.io/badge/✓_Available_for_New_Engagements-1B4965?style=for-the-badge&labelColor=0A2540" />
+<img src="https://img.shields.io/badge/⚡_Response_Within_24h-CCA43B?style=for-the-badge&labelColor=0A2540" />
+<img src="https://img.shields.io/badge/🌍_Working_Globally-1B4965?style=for-the-badge&labelColor=0A2540" />
+
+<br/><br/>
+
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 </div>
 
 <br/>
-
----
 
 ## About
 
@@ -31,7 +41,9 @@ Engagements  : Long-term contracts, product builds, technical leadership
 Status       : Available for select international engagements
 ```
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Core Engineering Capabilities
 
@@ -47,7 +59,9 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Technology Stack
 
@@ -98,7 +112,9 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Engineering Metrics
 
@@ -113,17 +129,21 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
-## Activity
+## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbazwork&theme=minimal&hide_border=true&bg_color=0A2540&color=CCA43B&line=CCA43B&point=ffffff&area=true&area_color=1B4965" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbazwork&theme=minimal&hide_border=true&bg_color=0A2540&color=CCA43B&line=CCA43B&point=ffffff&area=true&area_color=1B4965" width="100%" />
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Recognition
 
@@ -133,7 +153,9 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Engagement Model
 
@@ -148,7 +170,9 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Working Principles
 
@@ -158,7 +182,9 @@ Status       : Available for select international engagements
 - **Build for handoff.** Code should outlive my engagement on the project.
 - **Measure what matters.** Performance, reliability, and user impact over vanity metrics.
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Areas of Specialization
 
@@ -178,36 +204,28 @@ Status       : Available for select international engagements
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+</div>
 
 ## Engagement Status
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-Available%20for%20Select%20Engagements-1B4965?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Mode-Remote%20%E2%80%A2%20Async%20Friendly-0A2540?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Markets-US%20%E2%80%A2%20CA%20%E2%80%A2%20UK%20%E2%80%A2%20EU%20%E2%80%A2%20AU-CCA43B?style=for-the-badge" />
-
-<br/><br/>
-
 | Markets Served | Working Hours | Response SLA | Engagement Length |
 |:---:|:---:|:---:|:---:|
 | North America, UK, EU, Australia | Flexible across time zones | Within 24 hours, business days | 1-week sprints to multi-year contracts |
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=shahbazwork&color=1B4965&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=shahbazwork&color=1B4965&style=for-the-badge&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/shahbazwork?label=Followers&style=for-the-badge&color=CCA43B&labelColor=0A2540" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CCA43B,50:1B4965,100:0A2540&height=120&section=footer&animation=fadeIn" />
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CCA43B,50:1B4965,100:0A2540&height=140&section=footer&text=Let's%20Build%20Something%20Exceptional&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
 </div>

@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0C1E,50:00C3FF,100:7B2FF7&height=200&section=header&text=Shahbaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Product%20Builder%20%7C%20Digital%20Architect&descAlignY=60&descAlign=50&descSize=18" />
+<!-- Professional Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:1B4965,100:CCA43B&height=220&section=header&text=Shahbaz&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%E2%80%A2%20SaaS%20Architect%20%E2%80%A2%20Product%20Engineer&descAlignY=60&descAlign=50&descSize=16" />
 
 </div>
 
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00C3FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Shahbaz+👋;Full-Stack+Engineer+%7C+SaaS+Builder;Turning+Ideas+into+Digital+Products+🚀)](https://git.io/typing-svg)
+<!-- Typing Headline -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=1B4965&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Building+Production-Grade+SaaS+Platforms;Engineering+Scalable+Solutions+for+Global+Teams;Trusted+by+Clients+Across+US+%E2%80%A2+UK+%E2%80%A2+EU+%E2%80%A2+AU)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,210 +16,185 @@
 
 ---
 
-## 🌟 About Me
+## About
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+I'm a senior full-stack engineer specializing in **production-grade SaaS platforms** and **enterprise-scale web applications**. Based in Calgary, Canada, I work with founders, agencies, and engineering teams across North America, Europe, the UK, and Australia to ship software that performs at scale.
+
+My focus is straightforward: **clean architecture, measurable outcomes, and reliable delivery.**
 
 ```yaml
-Name        : Shahbaz
-Role        : Full-Stack Engineer & SaaS Builder
-Company     : Cloudester Software LLC
-Location    : 📍 Calgary, Canada 🇨🇦 → 🌍 Collaborating Worldwide
-Timezone    : UTC -07:00 (Mountain Time)
-Passion     : Building Products That Actually Matter
-Status      : Open to International Projects ✅
+Role         : Senior Full-Stack Engineer & SaaS Architect
+Company      : Cloudester Software LLC
+Location     : Calgary, Alberta, Canada
+Timezone     : UTC-07:00 (Mountain Time) — flexible across global hours
+Engagements  : Long-term contracts, product builds, technical leadership
+Status       : Available for select international engagements
 ```
-
-<br/>
-
-- 🏢 Working at: **Cloudester Software LLC**
-- 🔭 Currently building: **a marketplace SaaS platform**
-- 🌱 Deep diving into: **AI/ML, AWS, System Design**
-- 💡 Focused on: **Full-Stack Engineering, Automation & Scaling**
-- 🤝 Looking to collaborate on: **Innovative Startups & SaaS**
-- 🎯 Goal: **Ship scalable, meaningful digital products**
-- 📍 Based in: **Calgary, Canada — Working with clients worldwide**
-
-<br clear="right"/>
 
 ---
 
-## 🚀 What I Bring to the Table
+## Core Engineering Capabilities
 
 <div align="center">
 
-| 💼 Product Building | 🧠 Problem Solving | ⚡ Rapid Delivery | 🌐 Global Mindset |
+| Domain | Focus Areas |
+|:---|:---|
+| **Architecture** | System design, microservices, event-driven architecture, multi-tenant SaaS |
+| **Full-Stack Development** | TypeScript, React, Next.js, Node.js, Python, REST & GraphQL APIs |
+| **Cloud & Infrastructure** | AWS, Docker, CI/CD pipelines, serverless, infrastructure-as-code |
+| **Data Engineering** | PostgreSQL, MongoDB, Redis, query optimization, data modeling |
+| **Product Delivery** | MVP to scale, agile workflows, code review, technical documentation |
+
+</div>
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+#### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1B4965?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-1B4965?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1B4965?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1B4965?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1B4965?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-1B4965?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-1B4965?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-1B4965?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-1B4965?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+#### Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0A2540?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0A2540?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0A2540?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-0A2540?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-0A2540?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-0A2540?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+#### Cloud, DevOps & Tooling
+<p>
+  <img src="https://img.shields.io/badge/AWS-CCA43B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-CCA43B?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-CCA43B?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CCA43B?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-CCA43B?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-CCA43B?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-CCA43B?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+#### Frontend & Design Systems
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2C5F7E?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-2C5F7E?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-2C5F7E?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-2C5F7E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-2C5F7E?style=for-the-badge&logo=threedotjs&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## Engineering Metrics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahbazwork&show_icons=true&theme=nord&hide_border=true&bg_color=0A2540&title_color=CCA43B&icon_color=CCA43B&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazwork&theme=nord&hide_border=true&background=0A2540&stroke=CCA43B&ring=CCA43B&fire=CCA43B&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazwork&layout=compact&theme=nord&hide_border=true&bg_color=0A2540&title_color=CCA43B&text_color=ffffff&langs_count=8" />
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbazwork&theme=minimal&hide_border=true&bg_color=0A2540&color=CCA43B&line=CCA43B&point=ffffff&area=true&area_color=1B4965" />
+
+</div>
+
+---
+
+## Recognition
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahbazwork&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+
+</div>
+
+---
+
+## Engagement Model
+
+<div align="center">
+
+| Engagement Type | Detail |
+|:---|:---|
+| **Project Build** | Fixed-scope SaaS, MVP, or platform delivery with clear milestones |
+| **Long-Term Contract** | Embedded engineering on roadmap, weekly/monthly retainer |
+| **Technical Advisory** | Architecture review, code audit, scaling strategy, hiring support |
+| **Team Augmentation** | Working alongside in-house developers as senior contributor |
+
+</div>
+
+---
+
+## Working Principles
+
+- **Ship deliberately.** Every line of code serves a business outcome.
+- **Document thoroughly.** Onboarding new team members should take hours, not weeks.
+- **Communicate proactively.** Status, blockers, and decisions — written, not assumed.
+- **Build for handoff.** Code should outlive my engagement on the project.
+- **Measure what matters.** Performance, reliability, and user impact over vanity metrics.
+
+---
+
+## Areas of Specialization
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                       │
+│   Multi-Tenant SaaS Platforms        Marketplace & Two-Sided Apps    │
+│   Payment & Billing Integration      Authentication & Authorization  │
+│   API Design & Versioning            Real-Time Systems (WebSockets)  │
+│   Data Pipelines & ETL               Admin Dashboards & Analytics    │
+│   Performance Optimization           Database Migration & Scaling    │
+│                                                                       │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## Engagement Status
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Available%20for%20Select%20Engagements-1B4965?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Mode-Remote%20%E2%80%A2%20Async%20Friendly-0A2540?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Markets-US%20%E2%80%A2%20CA%20%E2%80%A2%20UK%20%E2%80%A2%20EU%20%E2%80%A2%20AU-CCA43B?style=for-the-badge" />
+
+<br/><br/>
+
+| Markets Served | Working Hours | Response SLA | Engagement Length |
 |:---:|:---:|:---:|:---:|
-| End-to-end SaaS | System Architecture | Agile & Iterative | Remote-First ✅ |
-| MVP to Scale | Clean Code | CI/CD Pipelines | Time-Zone Flexible |
-| API Integration | Database Design | Performance Tuning | Clear Communication |
-
-</div>
-
----
-
-## 🧠 Tech Arsenal
-
-<div align="center">
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux,figma,sass" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,graphql,java" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,supabase,aws" />
-</p>
-
-### 🛠️ Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,nginx,vercel,netlify" />
-</p>
-
-### 🎮 Game & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,c,cpp,threejs" />
-</p>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahbazwork&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&icon_color=7B2FF7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazwork&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C3FF&ring=7B2FF7&fire=FF6B6B&currStreakLabel=00C3FF" />
-
-<br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazwork&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C3FF&text_color=ffffff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahbazwork&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbazwork&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C3FF&line=7B2FF7&point=FF6B6B" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 Services I Offer
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   🏗️  Full-Stack Web Development    🤖  AI & Automation          │
-│   🛒  SaaS & Marketplace Platforms  📱  Mobile-First Design      │
-│   🔗  REST / GraphQL APIs           ☁️  Cloud Deployment (AWS)   │
-│   🔄  Third-Party Integrations      📊  Dashboard & Analytics    │
-│   🚀  MVP to Production             🔧  Performance Optimization │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🌍 Global Collaboration
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Available%20For-Freelance-brightgreen?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Full--Time-blue?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Response%20Time-Under%2024hrs-orange?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Based%20In-Calgary%20🇨🇦-red?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🌐 Client Focus | 🕐 Timezone | 🗣️ Communication | 🏢 Company |
-|:---:|:---:|:---:|:---:|
-| US, EU, UK, AU, CA | UTC -07:00 MT | English Fluent | Cloudester Software LLC |
-
-</div>
-
----
-
-## 🧩 Fun Facts
-
-- 🎯 I don't just write code — I craft **digital experiences**
-- 🧠 I obsess over **user experience**, **system performance**, and **clean architecture**
-- 🎮 Passionate about **game dev** (Unity, Kaboom.js, Three.js)
-- 🤝 I believe **great products** are built through **great collaboration**
-- 📚 I learn something new **every single day**
-- 🌙 Best work happens after **10 PM** (night owl coder 🦉)
-- 🏔️ Calgary mountains, Calgary inspiration 😄
-
----
-
-## 💬 Quotes I Live By
-
-<div align="center">
-
-> *"Stay hungry. Stay foolish."*
-> — **Steve Jobs**
-
----
-
-> *"The best way to predict the future is to invent it."*
-> — **Alan Kay**
-
----
-
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
-
----
-
-> *"Make it work, make it right, make it fast."*
-> — **Kent Beck**
-
----
-
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+| North America, UK, EU, Australia | Flexible across time zones | Within 24 hours, business days | 1-week sprints to multi-year contracts |
 
 </div>
 
@@ -227,14 +202,12 @@ Status      : Open to International Projects ✅
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahbazwork&color=00C3FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shahbazwork&color=1B4965&style=for-the-badge&label=Profile+Views)
 
 </div>
 
----
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00C3FF,100:0C0C1E&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CCA43B,50:1B4965,100:0A2540&height=120&section=footer&animation=fadeIn" />
 
 </div>
